@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://example.org/news/mortgages/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 18:47:48 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 19:12:21 -0500</lastBuildDate><atom:link href="http://example.org/news/mortgages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jobless Claims 01/09/21</title>
       <link>http://example.org/news/mortgages/jobless-claims-01-09/</link>

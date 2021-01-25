@@ -1,3 +1,29 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "anatole"
+staticDir = 'static'
+
+[params]
+title = "Anthony Pompa"
+author = "Anthony Pompa"
+description = "Call me the Millenial Mortgage Guy, motherfucker."
+profilePicture = "/img/headshot.jpg"
+displayMode = "light"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Mortgage Market News"
+  weight = 200
+  identifier = "news"
+  url = "/news/mortgages"
