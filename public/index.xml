@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://Antpomp28.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 18:47:48 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 18:47:48 -0500</lastBuildDate><atom:link href="https://Antpomp28.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jobless Claims 01/09/21</title>
-      <link>http://example.org/news/mortgages/jobless-claims-01-09/</link>
-      <pubDate>Sun, 24 Jan 2021 19:12:21 -0500</pubDate>
+      <title>Jobless Claims 01/11/21</title>
+      <link>https://Antpomp28.github.io/news/mortgages/jobless-claims-01-09/</link>
+      <pubDate>Mon, 11 Jan 2021 19:12:21 -0500</pubDate>
       
-      <guid>http://example.org/news/mortgages/jobless-claims-01-09/</guid>
+      <guid>https://Antpomp28.github.io/news/mortgages/jobless-claims-01-09/</guid>
       <description>Jobless Claims continue to move in the wrong direction, as another 965,000 people filed for unemployment benefits for the first time during the week ending January 9. This was well above estimates and, unfortunately, around five times the number of Initial Jobless Claims that were being filed each week before the pandemic began.
 Inflation also made headlines, as it remained tame overall at both the wholesale and consumer levels in December per the latest Producer and Consumer Price Index reports.</description>
     </item>
