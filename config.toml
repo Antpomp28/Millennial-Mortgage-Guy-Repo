@@ -7,9 +7,10 @@ staticDir = 'static'
 [params]
 title = "Anthony Pompa"
 author = "Anthony Pompa"
-description = "Call me the Millenial Mortgage Guy, motherfucker."
+description = "I am committed to making your home purchase experience as smooth as possible. My clients become part of my family, and it is my goal to stay with you for life."
 profilePicture = "/img/headshot.jpg"
 displayMode = "light"
+copyright = "NMLS #: 1929191"
 
 [markup.goldmark.renderer]
 unsafe= true
