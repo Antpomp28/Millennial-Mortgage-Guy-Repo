@@ -1,4 +1,4 @@
-baseURL = "https://themillennialmortgageguy.com/"
+baseURL = "http://themillennialmortgageguy.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
